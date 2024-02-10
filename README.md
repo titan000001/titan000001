@@ -24,14 +24,7 @@ Feel free to:
 
 Resources:
 
-    I'm continuously seeking valuable resources to enhance my learning. Here are some I currently find helpful:
-        [List of resources you're using, e.g., books, websites, online courses]
+    I'm continuously seeking valuable resources to enhance my learning.
 
 I'm still on the path to mastering data structures, and I invite you to join me!
 
-This is just a basic template, feel free to personalize it further:
-
-    Add your name, profile picture, or other visuals.
-    Specify your areas of particular interest within data structures and algorithms.
-    Share any personal projects you're working on related to the topic.
-    Link to your other online profiles or social media presence.
